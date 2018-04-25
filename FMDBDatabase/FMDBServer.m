@@ -1,4 +1,11 @@
-<pre>
+//
+//  FMDBServer.m
+//  FMDBDatabase
+//
+//  Created by 李敏 on 2018/4/20.
+//  Copyright © 2018年 Tongle. All rights reserved.
+//
+
 #import "FMDBServer.h"
 #import <FMDB/FMDB.h>
 #import "Student.h"
@@ -216,4 +223,3 @@
 
 
 @end
-</pre>
